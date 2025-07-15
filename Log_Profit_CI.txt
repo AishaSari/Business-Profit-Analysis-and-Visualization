@@ -1,0 +1,6 @@
+95% Confidence Intervals for Log Estimated Profit by Location:
+
+                           ci_lower  ci_upper
+location_type                                
+Functional urban area      1.282830  1.855309
+Rural and small town area  1.534404  2.123040

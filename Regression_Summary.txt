@@ -1,0 +1,25 @@
+                               OLS Regression Results                               
+====================================================================================
+Dep. Variable:     avg_revenue_per_business   R-squared:                       0.073
+Model:                                  OLS   Adj. R-squared:                  0.068
+Method:                       Least Squares   F-statistic:                     15.43
+Date:                      Thu, 15 May 2025   Prob (F-statistic):           0.000119
+Time:                              19:48:33   Log-Likelihood:                -1453.8
+No. Observations:                       198   AIC:                             2912.
+Df Residuals:                           196   BIC:                             2918.
+Df Model:                                 1                                         
+Covariance Type:                  nonrobust                                         
+===========================================================================================================
+                                              coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------------------
+const                                      72.4084     38.338      1.889      0.060      -3.200     148.016
+location_type_Rural and small town area   209.8245     53.415      3.928      0.000     104.483     315.166
+==============================================================================
+Omnibus:                       93.939   Durbin-Watson:                   1.835
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              269.737
+Skew:                           2.126   Prob(JB):                     2.68e-59
+Kurtosis:                       6.823   Cond. No.                         2.66
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

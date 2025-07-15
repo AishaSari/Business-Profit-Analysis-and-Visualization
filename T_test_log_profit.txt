@@ -1,0 +1,2 @@
+T-test between Functional urban area and Rural and small town area (log-profit):
+t-statistic = -1.2370, p-value = 0.2177

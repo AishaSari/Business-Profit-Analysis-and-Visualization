@@ -1,0 +1,2 @@
+T-test between Functional urban area and Rural and small town area:
+t-statistic = -3.9282, p-value = 0.0001
